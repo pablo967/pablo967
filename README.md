@@ -12,27 +12,27 @@ Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.
 
 ### Tecnologías que domino
 #### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- AngularJS
-- React Native
-- Ionic
-- Tailwind CSS
-- SASS
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+- AngularJS ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
+- React Native ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
+- Ionic ![Ionic](https://img.icons8.com/color/48/000000/ionic.png)
+- Tailwind CSS ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+- SASS ![SASS](https://img.icons8.com/color/48/000000/sass.png)
 
 #### Backend
-- Java
-- Python
-- Spring
-- Kotlin
+- Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+- Spring ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
+- Kotlin ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
 
 #### Base de Datos
-- MySQL
-- PostgreSQL
-- Oracle
-- MongoDB
+- MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+- Oracle ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
+- MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 Para obtener más detalles sobre mis proyectos y contribuciones, visita mi [portfolio](#) completo.
 

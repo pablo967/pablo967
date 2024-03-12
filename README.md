@@ -19,7 +19,7 @@ Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.
 - AngularJS ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
 - React Native ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
 - Ionic ![Ionic](https://img.icons8.com/color/48/000000/ionic.png)
-- Tailwind CSS ![Tailwind CSS](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png)
+- Tailwind CSS <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png" width="48" height="48" alt="Tailwind CSS">
 - SASS ![SASS](https://img.icons8.com/color/48/000000/sass.png)
 
 #### Backend

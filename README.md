@@ -2,13 +2,12 @@
 
 ¡Hola a todos! 👋
 
-Soy Pablo Baladrón Crespo, un recién titulado en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionado de compartir mi experiencia y conocimientos en el desarrollo de software con la comunidad.
+Soy Pablo Baladrón Crespo, un recién titulado en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionado de compartir mis proyectos de desarrollo de software con la comunidad.
 
 ### Acerca de mí
 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).
 Apasionado por la programación y el desarrollo de software.
 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
-Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.
 
 ### Tecnologías que domino
 #### Frontend

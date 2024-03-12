@@ -12,9 +12,9 @@ Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.
 
 ### Tecnologías que domino
 #### Frontend
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png) - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) - AngularJS ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png) - React Native ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
-- Ionic ![Ionic](https://img.icons8.com/color/48/000000/ionic.png) - Tailwind CSS <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png" width="48" height="48" alt="Tailwind CSS"> - SASS ![SASS](https://img.icons8.com/color/48/000000/sass.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
+![Ionic](https://img.icons8.com/color/48/000000/ionic.png) <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png" width="48" height="48" alt="Tailwind CSS"> ![SASS](https://img.icons8.com/color/48/000000/sass.png)
 
 
 #### Backend

@@ -18,10 +18,10 @@ Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.
 
 
 #### Backend
-- Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
-- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-- Spring ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
-- Kotlin ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
+
+
+
 
 #### Base de Datos
 - MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)

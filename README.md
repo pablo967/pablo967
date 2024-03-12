@@ -24,10 +24,10 @@ Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.
 
 
 #### Base de Datos
-- MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-- PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
-- Oracle ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
-- MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 Para obtener más detalles sobre mis proyectos y contribuciones, visita mi [portfolio](#) completo.
 

@@ -1,6 +1,4 @@
-## Readme
-
-¡Hola a todos! 👋
+## ¡Hola a todos! 👋
 
 Soy Pablo Baladrón Crespo, un recién titulado en Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy emocionado de compartir mis proyectos de desarrollo de software con la comunidad.
 
